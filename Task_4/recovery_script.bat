@@ -1,0 +1,1 @@
+mysql -u root -p sakila_archive < sakila_archive_backup.sql
