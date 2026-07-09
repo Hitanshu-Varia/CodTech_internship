@@ -1,1 +1,1 @@
-# CodiTech_internship
+# CodTech_internship
